@@ -7,7 +7,7 @@
 sudo apt install build-essential 
 ```
 
-make sure your g++ version is 8 or later
+make sure your g++ version is 8 or later.
 
 ```bash
 g++ --version
